@@ -1,0 +1,4 @@
+opencv-python==4.5.5.64
+mediapipe==0.9.1.0
+numpy==1.21.6
+autopy==4.0.0
