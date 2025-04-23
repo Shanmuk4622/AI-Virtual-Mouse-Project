@@ -73,7 +73,7 @@ This project implements an AI-based virtual mouse using computer vision and hand
 
 Watch the video below to see the AI Virtual Mouse in action:
 
-[![AI Virtual Mouse Demo](https://img.youtube.com/vi/IHkBkEHid5M/0.jpg)](https://youtu.be/IHkBkEHid5M)
+[![AI Virtual Mouse Demo](https://img.youtube.com/vi/IHkBkEHid5M/0.jpg)](https://youtu.be/ZWGJwAkexRA)
 
 
 
