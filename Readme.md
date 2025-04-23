@@ -67,7 +67,7 @@ Watch the video below to see the AI Virtual Mouse in action:
 
 [![AI Virtual Mouse Demo](https://img.youtube.com/vi/IHkBkEHid5M/0.jpg)](https://youtu.be/IHkBkEHid5M)
 
-> Replace `VIDEO_ID` with the actual YouTube video ID or provide a direct link to your video file.
+
 
 ## Troubleshooting
 
