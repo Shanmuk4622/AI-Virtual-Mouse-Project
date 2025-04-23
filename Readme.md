@@ -31,6 +31,14 @@ This project implements an AI-based virtual mouse using computer vision and hand
    - `mediapipe==0.9.1.0`
    - `numpy==1.21.6`
    - `autopy==4.0.0`
+
+   Please go with the Following command lines:
+   ```bash
+   pip install opencv-contrib-python
+   pip install opencv-contrib-python
+   pip install opencv-python mediapipe numpy autopy
+   ```
+
 3. Ensure your webcam is connected and functional.
 
 ## Usage

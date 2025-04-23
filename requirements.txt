@@ -2,3 +2,11 @@ opencv-python==4.5.5.64
 mediapipe==0.9.1.0
 numpy==1.21.6
 autopy==4.0.0
+
+- Python 3.8.0 or higher
+- Libraries:
+  - `opencv-python==4.5.5.64`: For video capture and image processing.
+  - `mediapipe==0.9.1.0`: For hand tracking and gesture recognition.
+  - `numpy==1.21.6`: For numerical operations and interpolation.
+  - `autopy==4.0.0`: For controlling the mouse programmatically.
+# pip install opencv-python mediapipe numpy autopy
